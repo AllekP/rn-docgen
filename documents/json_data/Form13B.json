@@ -1,0 +1,3780 @@
+{
+  "staticFields": [
+    {
+        "id": 1728288562299,
+        "type": "TextField",
+        "x": 22,
+        "y": 444,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[0].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562300,
+        "type": "Number",
+        "x": 390,
+        "y": 444,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[0].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562301,
+        "type": "Number",
+        "x": 497,
+        "y": 444,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[0].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562302,
+        "type": "TextField",
+        "x": 22,
+        "y": 463,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[1].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562303,
+        "type": "Number",
+        "x": 390,
+        "y": 463,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[1].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562304,
+        "type": "Number",
+        "x": 497,
+        "y": 463,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[1].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562305,
+        "type": "TextField",
+        "x": 22,
+        "y": 482,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[2].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562306,
+        "type": "Number",
+        "x": 390,
+        "y": 482,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[2].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562307,
+        "type": "Number",
+        "x": 497,
+        "y": 482,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[2].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562308,
+        "type": "TextField",
+        "x": 22,
+        "y": 500,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[3].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562309,
+        "type": "Number",
+        "x": 390,
+        "y": 501,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[3].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562310,
+        "type": "Number",
+        "x": 497,
+        "y": 501,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[3].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562311,
+        "type": "TextField",
+        "x": 22,
+        "y": 519,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[4].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562312,
+        "type": "Number",
+        "x": 390,
+        "y": 519,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[4].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562313,
+        "type": "Number",
+        "x": 497,
+        "y": 519,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[4].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562314,
+        "type": "TextField",
+        "x": 22,
+        "y": 537,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[5].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562315,
+        "type": "Number",
+        "x": 390,
+        "y": 537,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[5].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562316,
+        "type": "Number",
+        "x": 497,
+        "y": 537,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[5].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562317,
+        "type": "TextField",
+        "x": 22,
+        "y": 556,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[6].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562318,
+        "type": "Number",
+        "x": 390,
+        "y": 556,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[6].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562319,
+        "type": "Number",
+        "x": 497,
+        "y": 556,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[6].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562320,
+        "type": "TextField",
+        "x": 22,
+        "y": 575,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[7].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562321,
+        "type": "Number",
+        "x": 390,
+        "y": 575,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[7].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562322,
+        "type": "Number",
+        "x": 497,
+        "y": 575,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[7].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562323,
+        "type": "TextField",
+        "x": 21,
+        "y": 593,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[8].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562324,
+        "type": "Number",
+        "x": 390.6666666666667,
+        "y": 593,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[8].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562325,
+        "type": "Number",
+        "x": 497,
+        "y": 593,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[8].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562326,
+        "type": "TextField",
+        "x": 22,
+        "y": 612,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[9].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562327,
+        "type": "Number",
+        "x": 390,
+        "y": 612,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[9].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562328,
+        "type": "Number",
+        "x": 497,
+        "y": 612,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[9].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562329,
+        "type": "TextField",
+        "x": 21,
+        "y": 631,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[10].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562330,
+        "type": "Number",
+        "x": 390,
+        "y": 631,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[10].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562331,
+        "type": "Number",
+        "x": 497,
+        "y": 631,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[10].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562332,
+        "type": "TextField",
+        "x": 22,
+        "y": 650,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[11].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562333,
+        "type": "Number",
+        "x": 390,
+        "y": 650,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[11].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288562334,
+        "type": "Number",
+        "x": 497,
+        "y": 650,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[11].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288742430,
+        "type": "TextField",
+        "x": 21,
+        "y": 668,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[12].item",
+        "source": "assets"
+    },
+    {
+        "id": 1728288755354,
+        "type": "Number",
+        "x": 390,
+        "y": 668,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[12].market_value.client.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728288755609,
+        "type": "Number",
+        "x": 498,
+        "y": 668,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "items[12].market_value.opposing_party.today",
+        "source": "assets"
+    },
+    {
+        "id": 1728289046095,
+        "type": "TextField",
+        "x": 34,
+        "y": 70,
+        "width": 583,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "court_info.courtName"
+    },
+    {
+        "id": 1728289063054,
+        "type": "TextField",
+        "x": 34,
+        "y": 100,
+        "width": 583,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "court_info.courtOfficeAddress"
+    },
+    {
+        "id": 1728289073629,
+        "type": "TextField",
+        "x": 436,
+        "y": 72,
+        "width": 150,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "court_info.courtFileNumber"
+    },
+    {
+        "id": 1728289096250,
+        "type": "TextArea",
+        "x": 20,
+        "y": 171,
+        "width": 413,
+        "height": 36,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "applicant.fullLegalName, applicant.address, applicant.municipality"
+    },
+    {
+        "id": 1728289104656,
+        "type": "TextArea",
+        "x": 20,
+        "y": 198,
+        "width": "413",
+        "height": "36",
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "applicant.phoneAndFax, applicant.email"
+    },
+    {
+        "id": 1728289118013,
+        "type": "TextArea",
+        "x": 316,
+        "y": 172,
+        "width": "413",
+        "height": "36",
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "applicantsLawyer.fullLegalName, applicantsLawyer.address"
+    },
+    {
+        "id": 1728289129230,
+        "type": "TextArea",
+        "x": 20,
+        "y": 292,
+        "width": "413",
+        "height": "34",
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "respondent.phoneAndFax, respondent.email"
+    },
+    {
+        "id": 1728289129390,
+        "type": "TextArea",
+        "x": 20,
+        "y": 266,
+        "width": "413",
+        "height": "34",
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "respondent.fullLegalName, respondent.address, respondent.municipality"
+    },
+    {
+        "id": 1728289129707,
+        "type": "TextArea",
+        "x": 316,
+        "y": 198,
+        "width": "413",
+        "height": "36",
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "applicantsLawyer.phoneAndFax, applicantsLawyer.email"
+    },
+    {
+        "id": 1728289138174,
+        "type": "TextArea",
+        "x": 317,
+        "y": 266,
+        "width": "413",
+        "height": "34",
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "respondentsLawyer.fullLegalName, respondentsLawyer.address"
+    },
+    {
+        "id": 1728289141671,
+        "type": "TextArea",
+        "x": 316,
+        "y": 292,
+        "width": "413",
+        "height": "34",
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "respondentsLawyer.phoneAndFax, respondentsLawyer.email"
+    },
+    {
+        "id": 1728289237338,
+        "type": "TextField",
+        "x": 142,
+        "y": 319,
+        "width": 667,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "bind": "applicant.fullLegalName"
+    },
+    {
+        "id": 1728289245557,
+        "type": "TextField",
+        "x": 252,
+        "y": 344,
+        "width": 246,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1
+    },
+    {
+        "id": 1728289258690,
+        "type": "TextField",
+        "x": 434,
+        "y": 30,
+        "width": 150,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "court_info.courtFileNumber"
+    },
+    {
+        "id": 1728289267869,
+        "type": "TextField",
+        "x": 434,
+        "y": 30,
+        "width": 150,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "court_info.courtFileNumber"
+    },
+    {
+        "id": 1728292679415,
+        "type": "TextField",
+        "x": 22,
+        "y": 108,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[0].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679416,
+        "type": "TextField",
+        "x": 390,
+        "y": 108,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[0].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679417,
+        "type": "TextField",
+        "x": 497,
+        "y": 108,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679418,
+        "type": "TextField",
+        "x": 22,
+        "y": 127,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[1].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679419,
+        "type": "TextField",
+        "x": 390,
+        "y": 127,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[1].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679420,
+        "type": "TextField",
+        "x": 497,
+        "y": 127,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679421,
+        "type": "TextField",
+        "x": 22,
+        "y": 146,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[2].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679422,
+        "type": "TextField",
+        "x": 390,
+        "y": 146,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[2].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679423,
+        "type": "TextField",
+        "x": 497,
+        "y": 146,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679424,
+        "type": "TextField",
+        "x": 22,
+        "y": 165,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[3].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679425,
+        "type": "TextField",
+        "x": 390,
+        "y": 165,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[3].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679426,
+        "type": "TextField",
+        "x": 497,
+        "y": 165,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679427,
+        "type": "TextField",
+        "x": 22,
+        "y": 183,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[4].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679428,
+        "type": "TextField",
+        "x": 390,
+        "y": 184,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[4].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679429,
+        "type": "TextField",
+        "x": 497,
+        "y": 184,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679430,
+        "type": "TextField",
+        "x": 22,
+        "y": 202,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[5].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679431,
+        "type": "TextField",
+        "x": 390,
+        "y": 203,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[5].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679432,
+        "type": "TextField",
+        "x": 497,
+        "y": 203,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679433,
+        "type": "TextField",
+        "x": 22,
+        "y": 221,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[6].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679434,
+        "type": "TextField",
+        "x": 390,
+        "y": 222,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[6].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679435,
+        "type": "TextField",
+        "x": 497,
+        "y": 222,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679436,
+        "type": "TextField",
+        "x": 22,
+        "y": 240,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[7].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679437,
+        "type": "TextField",
+        "x": 390,
+        "y": 240,
+        "width": 135,
+        "heaight": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[7].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679438,
+        "type": "TextField",
+        "x": 497,
+        "y": 240,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679439,
+        "type": "TextField",
+        "x": 22,
+        "y": 258,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[8].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679440,
+        "type": "TextField",
+        "x": 390,
+        "y": 258,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[8].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679441,
+        "type": "TextField",
+        "x": 497,
+        "y": 258,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679442,
+        "type": "TextField",
+        "x": 22,
+        "y": 277,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[9].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679443,
+        "type": "TextField",
+        "x": 390,
+        "y": 277,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[9].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679444,
+        "type": "TextField",
+        "x": 497,
+        "y": 277,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679445,
+        "type": "TextField",
+        "x": 22,
+        "y": 295,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[10].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679446,
+        "type": "TextField",
+        "x": 390,
+        "y": 295,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[10].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679447,
+        "type": "TextField",
+        "x": 497,
+        "y": 295,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679448,
+        "type": "TextField",
+        "x": 22,
+        "y": 313,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[11].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679449,
+        "type": "TextField",
+        "x": 390,
+        "y": 313,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[11].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679450,
+        "type": "TextField",
+        "x": 497,
+        "y": 313,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679451,
+        "type": "TextField",
+        "x": 21,
+        "y": 333,
+        "width": 524,
+        "height": 21,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[12].category",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679452,
+        "type": "TextField",
+        "x": 390,
+        "y": 333,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[12].on_valuation_date",
+        "source": "debts"
+    },
+    {
+        "id": 1728292679453,
+        "type": "TextField",
+        "x": 497,
+        "y": 333,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debts"
+    },
+    {
+        "id": 1728299669521,
+        "type": "TextField",
+        "x": 22,
+        "y": 466,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[0].category",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669522,
+        "type": "Number",
+        "x": 390,
+        "y": 466,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[0].market_value.client.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669523,
+        "type": "Number",
+        "x": 497,
+        "y": 466,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[0].market_value.opposing_party.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669524,
+        "type": "TextField",
+        "x": 22,
+        "y": 485,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[1].category",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669525,
+        "type": "Number",
+        "x": 390,
+        "y": 485,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[1].market_value.client.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669526,
+        "type": "Number",
+        "x": 497,
+        "y": 485,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[1].market_value.opposing_party.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669527,
+        "type": "TextField",
+        "x": 22,
+        "y": 504,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[2].category",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669528,
+        "type": "Number",
+        "x": 390,
+        "y": 504,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[2].market_value.client.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669529,
+        "type": "Number",
+        "x": 497,
+        "y": 504,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[2].market_value.opposing_party.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669530,
+        "type": "TextField",
+        "x": 22,
+        "y": 523,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[3].category",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669531,
+        "type": "Number",
+        "x": 390,
+        "y": 523,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[3].market_value.client.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669532,
+        "type": "Number",
+        "x": 497,
+        "y": 523,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[3].market_value.opposing_party.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669533,
+        "type": "TextField",
+        "x": 22,
+        "y": 542,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[4].category",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669534,
+        "type": "Number",
+        "x": 390,
+        "y": 542,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[4].market_value.client.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669535,
+        "type": "Number",
+        "x": 497,
+        "y": 542,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[4].market_value.opposing_party.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669536,
+        "type": "TextField",
+        "x": 22,
+        "y": 561,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[5].category",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669537,
+        "type": "Number",
+        "x": 390,
+        "y": 561,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[5].market_value.client.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728299669538,
+        "type": "Number",
+        "x": 497,
+        "y": 561,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[5].market_value.opposing_party.today",
+        "source": "properties"
+    },
+    {
+        "id": 1728301498825,
+        "type": "TextField",
+        "x": 22,
+        "y": 616,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[0].category",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498826,
+        "type": "Number",
+        "x": 390,
+        "y": 616,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[0].on_valuation_date",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498827,
+        "type": "Number",
+        "x": 497,
+        "y": 616,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498828,
+        "type": "TextField",
+        "x": 22,
+        "y": 635,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[1].category",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498829,
+        "type": "Number",
+        "x": 390,
+        "y": 635,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[1].on_valuation_date",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498830,
+        "type": "Number",
+        "x": 497,
+        "y": 635,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498831,
+        "type": "TextField",
+        "x": 22,
+        "y": 654,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[2].category",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498832,
+        "type": "Number",
+        "x": 390,
+        "y": 654,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[2].on_valuation_date",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498833,
+        "type": "Number",
+        "x": 497,
+        "y": 654,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498834,
+        "type": "TextField",
+        "x": 22,
+        "y": 673,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[3].category",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498835,
+        "type": "Number",
+        "x": 390,
+        "y": 673,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[3].on_valuation_date",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498836,
+        "type": "Number",
+        "x": 497,
+        "y": 673,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498837,
+        "type": "TextField",
+        "x": 22,
+        "y": 692,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[4].category",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498838,
+        "type": "Number",
+        "x": 390,
+        "y": 692,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[4].on_valuation_date",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498839,
+        "type": "Number",
+        "x": 497,
+        "y": 692,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498840,
+        "type": "TextField",
+        "x": 22,
+        "y": 711,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[5].category",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498841,
+        "type": "Number",
+        "x": 390,
+        "y": 711,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "items[5].on_valuation_date",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728301498842,
+        "type": "Number",
+        "x": 497,
+        "y": 711,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "bind": "",
+        "source": "debtsMarriage"
+    },
+    {
+        "id": 1728306920155,
+        "type": "TextField",
+        "x": 22,
+        "y": 108,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[0].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920156,
+        "type": "TextField",
+        "x": 390,
+        "y": 108,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[0].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920157,
+        "type": "TextField",
+        "x": 497,
+        "y": 108,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[0].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920158,
+        "type": "TextField",
+        "x": 22,
+        "y": 127,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[1].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920159,
+        "type": "TextField",
+        "x": 390,
+        "y": 127,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[1].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920160,
+        "type": "TextField",
+        "x": 497,
+        "y": 127,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[1].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920161,
+        "type": "TextField",
+        "x": 22,
+        "y": 146,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[2].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920162,
+        "type": "TextField",
+        "x": 390,
+        "y": 146,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[2].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920163,
+        "type": "TextField",
+        "x": 497,
+        "y": 146,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[2].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920164,
+        "type": "TextField",
+        "x": 22,
+        "y": 165,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[3].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920165,
+        "type": "TextField",
+        "x": 390,
+        "y": 165,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[3].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920166,
+        "type": "TextField",
+        "x": 497,
+        "y": 165,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[3].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920167,
+        "type": "TextField",
+        "x": 22,
+        "y": 184,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[4].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920168,
+        "type": "TextField",
+        "x": 390,
+        "y": 184,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[4].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920169,
+        "type": "TextField",
+        "x": 497,
+        "y": 184,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[4].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920170,
+        "type": "TextField",
+        "x": 22,
+        "y": 203,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[5].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920171,
+        "type": "TextField",
+        "x": 390,
+        "y": 203,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[5].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920172,
+        "type": "TextField",
+        "x": 497,
+        "y": 203,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[5].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920173,
+        "type": "TextField",
+        "x": 22,
+        "y": 222,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[6].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920174,
+        "type": "TextField",
+        "x": 390,
+        "y": 222,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[6].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920175,
+        "type": "TextField",
+        "x": 497,
+        "y": 222,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[6].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920176,
+        "type": "TextField",
+        "x": 22,
+        "y": 241,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[7].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920177,
+        "type": "TextField",
+        "x": 390,
+        "y": 241,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[7].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920178,
+        "type": "TextField",
+        "x": 497,
+        "y": 241,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[7].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920179,
+        "type": "TextField",
+        "x": 22,
+        "y": 260,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[8].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920180,
+        "type": "TextField",
+        "x": 390,
+        "y": 260,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[8].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920181,
+        "type": "TextField",
+        "x": 497,
+        "y": 260,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[8].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920182,
+        "type": "TextField",
+        "x": 22,
+        "y": 279,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[9].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920183,
+        "type": "TextField",
+        "x": 390,
+        "y": 279,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[9].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920184,
+        "type": "TextField",
+        "x": 497,
+        "y": 279,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[9].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920185,
+        "type": "TextField",
+        "x": 22,
+        "y": 298,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[10].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920186,
+        "type": "TextField",
+        "x": 390,
+        "y": 298,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[10].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920187,
+        "type": "TextField",
+        "x": 497,
+        "y": 298,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[10].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920188,
+        "type": "TextField",
+        "x": 22.666666666666668,
+        "y": 314.3333333333333,
+        "width": 524,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[11].category",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920189,
+        "type": "TextField",
+        "x": 389.3333333333333,
+        "y": 314.3333333333333,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[11].market_value.client.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": 1728306920190,
+        "type": "TextField",
+        "x": 497,
+        "y": 314.3333333333333,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "bind": "items[11].market_value.opposing_party.today",
+        "source": "property_exlcuded"
+    },
+    {
+        "id": "1728309128384client",
+        "type": "TextField",
+        "x": 390,
+        "y": 333.3333333333333,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3
+    },
+    {
+        "id": "1728309128384opposing",
+        "type": "TextField",
+        "x": 496.3333333333333,
+        "y": 332.6666666666667,
+        "width": 135,
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3
+    },
+    {
+        "id": "tableResponentTotalValue",
+        "type": "Number",
+        "x": 497.3333333333333,
+        "y": 687.3333333333334,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "source": "tableResponentTotalValue"
+    },
+    {
+        "id": "tableApplicantTotalValue",
+        "type": "Number",
+        "x": 389.3333333333333,
+        "y": 687.3333333333334,
+        "width": "135",
+        "height": 20,
+        "value": 4169187,
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 1,
+        "source": "tableApplicantTotalValue"
+    },
+    {
+        "id": "table2ApplicantTotalValue",
+        "type": "Number",
+        "x": 390.6666666666667,
+        "y": 352,
+        "width": "135",
+        "height": 20,
+        "value": 212048,
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "source": "table2ApplicantTotalValue"
+    },
+    {
+        "id": "table2RespondentTotalValue",
+        "type": "Number",
+        "x": 497.3333333333333,
+        "y": 352,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "source": "table2RespondentTotalValue"
+    },
+    {
+        "id": "table3aApplicantTotalValue",
+        "type": "Number",
+        "x": 389.3333333333333,
+        "y": 578.6666666666666,
+        "width": "135",
+        "height": 20,
+        "value": 12000,
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "source": "table3aApplicantTotalValue"
+    },
+    {
+        "id": "table3aRespondentTotalValue",
+        "type": "Number",
+        "x": 497.3333333333333,
+        "y": 578.6666666666666,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "source": "table3aRespondentTotalValue"
+    },
+    {
+        "id": "table3bApplicantTotalValue",
+        "type": "Number",
+        "x": 390,
+        "y": 729.3333333333334,
+        "width": "135",
+        "height": 20,
+        "value": 106024,
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "source": "table3bApplicantTotalValue"
+    },
+    {
+        "id": "table3bRespondentTotalValue",
+        "type": "Number",
+        "x": 498,
+        "y": 730,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "source": "table3bRespondentTotalValue"
+    },
+    {
+        "id": "table3ApplicantTotalValue",
+        "type": "Number",
+        "x": 390.6666666666667,
+        "y": 748,
+        "width": "135",
+        "height": 20,
+        "value": -94024,
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "source": "table3ApplicantTotalValue"
+    },
+    {
+        "id": "table3RespondentTotalValue",
+        "type": "Number",
+        "x": 498,
+        "y": 748,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 2,
+        "source": "table3RespondentTotalValue"
+    },
+    {
+        "id": 1728633659579,
+        "type": "Number",
+        "x": 498,
+        "y": 392,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633659885,
+        "type": "Number",
+        "x": "388",
+        "y": 373.3333333333333,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633660210,
+        "type": "Number",
+        "x": "498",
+        "y": 373.3333333333333,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633678016,
+        "type": "Number",
+        "x": "388",
+        "y": 430,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633678271,
+        "type": "Number",
+        "x": "498",
+        "y": 428.6666666666667,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633678517,
+        "type": "Number",
+        "x": "498",
+        "y": 411.3333333333333,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633678869,
+        "type": "Number",
+        "x": "388",
+        "y": 411.3333333333333,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633679146,
+        "type": "Number",
+        "x": "388",
+        "y": 392.6666666666667,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633703719,
+        "type": "Number",
+        "x": "498",
+        "y": 468.6666666666667,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633703866,
+        "type": "Number",
+        "x": "388",
+        "y": 470,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633712925,
+        "type": "Number",
+        "x": "498",
+        "y": 488.6666666666667,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633713144,
+        "type": "Number",
+        "x": "388",
+        "y": 488.6666666666667,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633721570,
+        "type": "Number",
+        "x": "498",
+        "y": 508,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    },
+    {
+        "id": 1728633721723,
+        "type": "Number",
+        "x": "388",
+        "y": 507.3333333333333,
+        "width": "135",
+        "height": 20,
+        "value": "",
+        "fontSize": 10,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "background": "none",
+        "border": "none",
+        "page": 3,
+        "source": ""
+    }
+]
+}
